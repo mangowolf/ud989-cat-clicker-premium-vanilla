@@ -72,7 +72,7 @@ var octopus = {
 };
 
 
-/* ======= View ======= */
+/* ======= View =======  */
 
 var catView = {
 
